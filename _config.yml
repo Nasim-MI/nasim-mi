@@ -22,7 +22,7 @@ locale                   : "en-UK"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Nasim Mohamed Ismail"
 title_separator          : "-"
-subtitle                 : "PhD Candidate in Computational Biology"
+subtitle                 : "PhD Candidate in Machine Learning and Bioinformatics"
 name                     : "Nasim Mohamed Ismail"
 description              : "PhD student at Queen Mary University of London researching machine learning applications in neurodegenerative disease transcriptomics, focusing on Parkinson's disease and Alzheimer's disease."
 url                      : "https://nasim-mi.github.io"
