@@ -92,22 +92,6 @@ yandex_site_verification :
 baidu_site_verification  :
 
 
-# Site Navigation
-main:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-  - title: "Research"
-    url: /research/
-  - title: "Publications"
-    url: /publications/
-  - title: "CV"
-    url: /cv/
-  - title: "Contact"
-    url: /contact/
-
-
 # Social Sharing
 twitter:
   username               :
