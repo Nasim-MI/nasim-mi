@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Nasim Mohamed Ismail"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Nasim Mohamed Ismail"
 description              : "An amazing website."
 url                      : "https://nasim-mi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -129,8 +129,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "PhD student at Queen Mary University of London (QMUL); MSc in Bioinformatics, QMUL, 2023"
+  location         : "London, UK"
   email            :
   links:
     - label: "Email"
