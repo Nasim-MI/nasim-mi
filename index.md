@@ -1,8 +1,7 @@
 ---
-layout: single
+layout: home
 author_profile: true
 title: "Welcome"
-classes: wide
 ---
 
 ## About Me
