@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 title: "Welcome"
+classes: wide
 ---
 
 ## About Me
