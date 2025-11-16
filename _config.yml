@@ -93,20 +93,19 @@ baidu_site_verification  :
 
 
 # Site Navigation
-navigation:
-  main:
-    - title: "Home"
-      url: /
-    - title: "About"
-      url: /about/
-    - title: "Research"
-      url: /research/
-    - title: "Publications"
-      url: /publications/
-    - title: "CV"
-      url: /cv/
-    - title: "Contact"
-      url: /contact/
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /cv/
+  - title: "Contact"
+    url: /contact/
 
 
 # Social Sharing
